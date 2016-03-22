@@ -1,0 +1,45 @@
+PROJECT DETAILS:
+
+Title: Civilization Game
+Platform: Core Java
+Option: Multiplayer and Single player game
+
+Abstract:
+
+Civilization game source code in Java: This game is a single or multiplayer strategy game. The player’s character is depends on the ruler of a civilization. It is a simple java game which is also developed for Android device platforms. Yeah! This game supports the android mobile devices as well.
+
+[Read: Mini Projects Download] & [ MCA Projects Download]
+There is a multiplayer option and users can select map pieces to move forward. There is also an awesome background screen and sounds. Player can move right, left, down and up directions.
+
+Related: Java programs & examples
+Some of the Modules of this game are,
+
+Game selection,
+Player selection,
+Sound option,
+Map creation,
+Game status
+
+This sample Java game project has good User Interface design and movements. There are some good actions also available. The player’s picture is also a changeable thing.
+
+This java game project’s source code is available for free download. Downloading zip file contains of the following,
+
+Image files,
+
+Sound tracks,
+
+Java & class files like,
+
+city.java,
+
+CustomCellRenderer.java,
+
+GameCore.java
+
+GWMap.java,
+
+LaughButto.java
+
+MainGUI.java
+
+MiniMap.java
